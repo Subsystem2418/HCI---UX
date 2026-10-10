@@ -1,6 +1,6 @@
 # Neighbourhood Emergency Alerts and Coordination
 
-**Course:** Diseño de Experiencia de Usuario e Interacción Humano Computador — 2026  
+**Course:** ICC716-1: DISEÑO INTERFACE HUMANO COMPUTADOR — 2026  
 **University:** Universidad de La Frontera (UFRO), Temuco, Chile
 
 UX design project for a neighbourhood alert application in areas with unavailable or intermittent mobile coverage.
@@ -33,9 +33,11 @@ Our project addresses this problem through a proposed application for issuing lo
 
 ## 2. Team
 
-| Member | Role |
+| Member |
 |---|---|
-| To be completed | To be completed |
+|Erick Soto| 
+| Benjamin Valenzuela | 
+| Fernando Jelvez | 
 
 ---
 
