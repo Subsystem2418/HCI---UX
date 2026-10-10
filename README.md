@@ -33,11 +33,9 @@ Our project addresses this problem through a proposed application for issuing lo
 
 ## 2. Team
 
-| Member |
-|---|
-| Erick Soto |
-| Benjamin Valenzuela |
-| Fernando Jelvez |
+- Erick Soto
+- Benjamin Valenzuela
+- Fernando Jelvez
 
 ---
 
